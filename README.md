@@ -1,2 +1,4 @@
 # hello-world
 getting start
+
+Create a new repository on GitHub. If you only want to keep track of your code locally, you don't need to use GitHub. But if you want to work with a team, you can use GitHub to collaboratively modify the project's code. 
